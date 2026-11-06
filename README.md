@@ -16,11 +16,19 @@ I build agentic and RAG systems and check that they actually work. For three yea
 <table>
 <tr>
 <td width="50%" valign="top">
+<a href="https://github.com/olyamasaeva/paper-lab"><img alt="paper-lab" src="https://raw.githubusercontent.com/olyamasaeva/paper-lab/main/docs/img/social-preview.png"></a>
+
+**[paper-lab](https://github.com/olyamasaeva/paper-lab)**<br>
+A Claude Code skill that turns a paper into a Jupyter assignment you have to solve: the core of the method is a stub, the tests check you against the paper's numbers. Evaluated against Yandex School of Data Analysis homework with an LLM judge that separates real gaps from deliberate omissions (7.44/10 on 8 topics).
+</td>
+<td width="50%" valign="top">
 <a href="https://github.com/olyamasaeva/book-translate"><img alt="book-translate" src="https://raw.githubusercontent.com/olyamasaeva/book-translate/main/docs/img/social-preview.png"></a>
 
 **[book-translate](https://github.com/olyamasaeva/book-translate)**<br>
 A Claude Code skill that translates scanned books in place. Photos and sewing patterns stay uncovered; the output is an in-place PDF, a bilingual PDF and an offline reader with sentence-level alignment. Built on a 222-page Finnish book about folk costume.
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://github.com/olyamasaeva/ru-genealogy-search"><img alt="ru-genealogy-search" src="https://raw.githubusercontent.com/olyamasaeva/ru-genealogy-search/main/docs/img/social-preview.png"></a>
 
