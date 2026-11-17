@@ -40,9 +40,9 @@ An agent skill that finds ancestors in Russian and Soviet records that search en
 
 ## Work
 
-- **Sea of Data** · LLM / AI Engineer · 2025–now. EdTech startup, AI career guidance for schools, universities and employment centres. Evaluation of a production AI tutor: a self-hosted Qwen judge scored 1,245 tutor turns on 18 pedagogical dimensions against 262 lessons of award-winning teachers. A profession recommender and learning-path builder in production for 3,600+ users, Moscow Employment Centre and Moscow Polytech.
-- **Sber** · LLM Engineer · 2024–2025. LLM-as-a-Judge evaluation for RAG that cut evaluation time by 35%; GigaChat query understanding for restaurant search; LoRA fine-tuning of GigaChat for marketing push notifications.
-- **Yandex** · Data Science Intern, Ads · 2023–2024. Ad ranking research, A/B tests, linear models in production.
+- **Sea of Data** · LLM / AI Engineer · 2025–now. EdTech startup, AI career guidance for schools, universities and employment centres. Evaluation of a production AI tutor: a self-hosted Qwen judge scored 1,245 tutor turns on 18 pedagogical dimensions against 262 lessons of award-winning teachers. A profession recommender and learning-path builder in production for 3,600+ users, Moscow Employment Centre and Moscow Polytech. LLM skill extraction from 61M job postings into 22K canonical skills (F1 0.859 → 0.912).
+- **Sber** · LLM Engineer · 2024–2025. Designed and shipped conversational AI digital twins, still in production: a ReAct orchestrator over platform APIs, RAG over categorised facts with hybrid search, our own schema-constrained generation on beam search before GigaChat had structured outputs, and a LoRA-tuned GigaChat for the person's style, served on SGLang and llama.cpp. RAG assistants for finance and insurance with OCR/VLM document parsing; GigaChat query understanding for restaurant search; adapted RAGAS to Russian for LLM-as-a-Judge evaluation.
+- **Yandex** · ML Intern, Ads · 2023. Debugging tools for the ad-load model; a CatBoost sample-reweighting experiment with an online A/B test.
 
 ## Talks and writing
 
@@ -52,6 +52,6 @@ An agent skill that finds ancestors in Russian and Soviet records that search en
 
 ## Toolbox
 
-Python · PyTorch · LangGraph · vLLM · Qwen · GigaChat · Claude Code · FastAPI · Docker · DuckDB · MLflow · DVC
+Python · PyTorch · Hugging Face · LoRA / PEFT · LangGraph · RAG · Qdrant · vLLM · SGLang · Qwen · GigaChat · Claude Code · FastAPI · Docker · DuckDB · MLflow · DVC
 
 ACM ICPC semi-finalist, informatics olympiad coach.
