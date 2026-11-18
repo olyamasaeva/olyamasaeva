@@ -35,6 +35,12 @@ A Claude Code skill that translates scanned books in place. Photos and sewing pa
 **[ru-genealogy-search](https://github.com/olyamasaeva/ru-genealogy-search)**<br>
 An agent skill that finds ancestors in Russian and Soviet records that search engines miss: the notary inheritance registry, Leningrad evacuation lists, repression memory books, WWII losses. It builds a GEDCOM tree with a source and a confidence level for every fact.
 </td>
+<td width="50%" valign="top">
+<a href="https://github.com/olyamasaeva/video-kb"><img alt="video-kb" src="https://raw.githubusercontent.com/olyamasaeva/video-kb/main/docs/img/social-preview.png"></a>
+
+**[video-kb](https://github.com/olyamasaeva/video-kb)**<br>
+A Claude Code skill that turns a YouTube course into a knowledge base of practice cards with honest limits and lecture summaries with clickable timecodes. Auto-subtitles are fixed by counted TSV rules, not rewritten by a model, and every quote and timecode is checked by scripts: on Stanford CS329Z, 93 cards and 4060 timecodes with 0 verify errors.
+</td>
 </tr>
 </table>
 
